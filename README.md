@@ -1,2 +1,4 @@
-# fruta-e-fruto
-Projeto de estudo realizado em um curso de HTML+CSS da Alura
+# arquitetura-css
+curso de arquitetura da Alura. 
+
+https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap
